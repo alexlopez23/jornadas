@@ -10,7 +10,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <meta name="layout" content="masterBootstrap" />
-	<g:set var="entityName" value="Crear jornadasssss" />
+	<g:set var="entityName" value="Crear jornadas" />
         <title><g:message code="default.create.label" args="[entityName]" /></title>
     </head>
     <body>
